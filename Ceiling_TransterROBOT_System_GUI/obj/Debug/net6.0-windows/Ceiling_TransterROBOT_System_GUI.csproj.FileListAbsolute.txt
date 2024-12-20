@@ -1,0 +1,49 @@
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.AssemblyReference.cache
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.Form1.resources
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.GenerateResource.cache
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfoInputs.cache
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfo.cs
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.CoreCompileInputs.cache
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.exe
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.deps.json
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.runtimeconfig.json
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\refint\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.genruntimeconfig.cache
+C:\Users\kcm\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\ref\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.exe
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.deps.json
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.runtimeconfig.json
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.Form1.resources
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.GenerateResource.cache
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfo.cs
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\refint\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.genruntimeconfig.cache
+C:\Users\test\source\repos\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\ref\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.exe
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.deps.json
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.runtimeconfig.json
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\bin\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.Form1.resources
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.GenerateResource.cache
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfoInputs.cache
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.AssemblyInfo.cs
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\refint\Ceiling_TransterROBOT_System_GUI.dll
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.pdb
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\Ceiling_TransterROBOT_System_GUI.genruntimeconfig.cache
+C:\Users\A\Documents\카카오톡 받은 파일\Ceiling_TransterROBOT_System_GUI\Ceiling_TransterROBOT_System_GUI\obj\Debug\net6.0-windows\ref\Ceiling_TransterROBOT_System_GUI.dll
