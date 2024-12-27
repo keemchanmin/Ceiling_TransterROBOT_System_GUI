@@ -1,10 +1,17 @@
+# Project Demonstration
+https://www.youtube.com/watch?v=YtSECdCxgNI
+
 # Collision Avoid State Machine
-![image](https://github.com/user-attachments/assets/b1b3e3d5-2163-4320-9d76-5c34470eb582)
+![image](https://github.com/user-attachments/assets/072aacff-9424-42d9-97dc-67d0ec1ceefb)
+
+
 
 # System Architecture
-![image](https://github.com/user-attachments/assets/c291b19a-b437-4661-b662-94049854e28a)
+![image](https://github.com/user-attachments/assets/86e0336e-a409-42e2-8c5e-451bfcc9e258)
+
 
 # HARDWARE
+![image](https://github.com/user-attachments/assets/7fce1727-531e-42d6-9f99-e591cd3c236d) ![image](https://github.com/user-attachments/assets/787fef03-fbab-4714-bddc-4e970117b7ab)
 
-![image](https://github.com/user-attachments/assets/08ec1797-9f4f-4c3f-9559-32c1dc5c5c0d) 
-![image](https://github.com/user-attachments/assets/bcb2a33d-147a-4039-b64f-a4d7c6b40ab7)
+
+
